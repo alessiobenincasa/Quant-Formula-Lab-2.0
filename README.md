@@ -1,4 +1,4 @@
-# Quant Formula Lab 2.0 📐  
+# Quantitative-Finance-Formulas 📐  
 **From École 42 to Quant Finance** – Un référentiel mathématique complet pour maîtriser les formules essentielles de la finance quantitative
 
 ---
